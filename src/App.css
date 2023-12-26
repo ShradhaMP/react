@@ -1,0 +1,25 @@
+
+.button{
+  background-color:grey;
+  color: white;
+  margin-left: 5px;
+  border:2px solid black
+}
+
+.search{
+ position: absolute;
+ left: 35%;
+}
+
+.search input{
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.shuffleBtn{
+  background-color: rgb(39, 82, 157);
+  margin-right: 5px;
+  padding: 10px;
+  color: white;
+  border-radius: 10px;
+}
